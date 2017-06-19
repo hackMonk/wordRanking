@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="import jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/import jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/import jar/jfreechart-1.0.19/experimental" />
+      <root url="file://$PROJECT_DIR$/import jar/jfreechart-1.0.19/source" />
+      <root url="file://$PROJECT_DIR$/import jar/jfreechart-1.0.19/swt" />
+      <root url="file://$PROJECT_DIR$/import jar/jfreechart-1.0.19/tests" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/import jar" recursive="false" />
+  </library>
+</component>
